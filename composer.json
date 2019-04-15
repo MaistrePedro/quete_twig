@@ -1,0 +1,12 @@
+{
+    "name": "pedro/quete_twig",
+    "require": {
+        "twig/twig": "^2.7"
+    },
+    "authors": [
+        {
+            "name": "MaistrePedro",
+            "email": "peterpendrag@gmail.com"
+        }
+    ]
+}
